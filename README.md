@@ -28,6 +28,14 @@ MindVault is a privacy-first AI journal that runs **100% on-device** using the C
 |------|-------------|
 | **MindVault.apk** | Production build - ready to install! |
 
+### 🎬 Demo Video
+
+| File | Description |
+|------|-------------|
+| **MindVault.mp4** | 1-minute demo showcasing all AI features |
+
+> Watch the demo to see voice transcription, mood analysis, and Memory Master chat in action!
+
 > **⚠️ Important:** This app uses the Cactus SDK with native ARM libraries. **Test on a real Android phone** (not emulators like BlueStacks which use x86 architecture).
 
 ### 📋 Device Requirements
