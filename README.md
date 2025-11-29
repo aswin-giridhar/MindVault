@@ -30,9 +30,13 @@ MindVault is a privacy-first AI journal that runs **100% on-device** using the C
 
 ### 🎬 Demo Video
 
-| File | Description |
-|------|-------------|
-| **MindVault.mp4** | 1-minute demo showcasing all AI features |
+<p align="center">
+  <a href="MindVault.mp4">
+    <img src="mindvault_logo.png" alt="Watch Demo Video" width="200" />
+    <br/>
+    <b>▶️ Click to Watch Demo (1 min)</b>
+  </a>
+</p>
 
 > Watch the demo to see voice transcription, mood analysis, and Memory Master chat in action!
 
